@@ -6,7 +6,8 @@ Website de demonstração em HTML, CSS e JavaScript, preparado para alojamento e
 
 - `index.html` na raiz
 - `styles.css` e `script.js` locais
-- `assets/` com as 8 imagens e os 2 vídeos fornecidos
+- `assets/images/` com as 8 imagens originais fornecidas
+- `assets/videos/` com os 2 vídeos originais fornecidos
 - `_headers` compatível com Cloudflare Pages
 
 ## Publicação no Cloudflare Pages
